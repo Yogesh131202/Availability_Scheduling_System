@@ -6,14 +6,14 @@ Availability Scheduling System is a web application that allows users to submit 
 - Admin Dashboard: Admins can view the availability of all users in a centralized interface.
 - Authentication: User authentication and token-based authorization.
 
-##Tech Stack
+## Tech Stack
 - Frontend: React.js, Material-UI, React-Calendar
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JWT (JSON Web Token)
 - API Client: Axios
   
-##Installation and Setup
+## Installation and Setup
 **Prerequisites**
 
 - Node.js (v14 or above)
@@ -56,11 +56,11 @@ npm start
 The backend server will start at http://localhost:3002, and the frontend React app will start at http://localhost:3000.
 ```
 
-##Usage
+## Usage
 - User Flow: A user logs in, selects a date, enters start and end times for availability, and submits the form.
 - Admin Flow: Admin logs in and views all user availabilities on a centralized dashboard.
   
-##Project Structure
+## Project Structure
 ```bash
 Availability_Scheduling_System/
 ├── client/                   # React frontend
