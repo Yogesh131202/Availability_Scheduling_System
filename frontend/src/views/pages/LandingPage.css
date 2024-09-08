@@ -1,0 +1,27 @@
+.landing-page {
+    background: linear-gradient(135deg, #4caf50, #81c784);
+    color: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .MuiPaper-root {
+    background-color: rgba(255, 255, 255, 0.85);
+  }
+  
+  .MuiButton-root {
+    font-size: 1.1rem;
+    padding: 12px 24px;
+  }
+  
+  .MuiTypography-h4 {
+    font-weight: bold;
+  }
+  
